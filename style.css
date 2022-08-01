@@ -36,7 +36,8 @@ img {
 
 .slideshow-container {
   max-width: 100%;
-  min-height: 400px;
+  min-height: 700px;
+  max-height: 700px;
   position: relative;
   margin: auto;
 }
